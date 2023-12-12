@@ -1,0 +1,8 @@
+creditcard_test.csv
+creditcard_train.csv
+
+oversampling.py
+smote.py
+weight.py
+
+./model
